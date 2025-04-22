@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Within Microsoft Azure, find a create VM name it osticket-vm, make sure to remember username and password used when creating the osTicket VM, under resource group ex.(osTicket). Under image pick Windows 10.Find a usable VM with more than 2VCPUS,make sure to click the Licensing checkbox when using a Windows VM found at the bottom. Click create and deploy. In Remote Desktop enter your IP that you will find next to your newly made VM the public IP address in Windows.
+Within Microsoft Azure, find a create VM name it osticket-vm, make sure to remember username and password used when creating the osTicket VM, under resource group ex.(osTicket). Under image pick Windows 10.Find a usable VM with more than 2VCPUS,make sure to click the Licensing checkbox when using a Windows VM found at the bottom. Click create and deploy. In Remote Desktop enter your IP that you will find next to your newly made VM the public IP address in Windows. You will then on your VM on Remote Desktop download the OsTicket ticket installation files https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip them onto your VM desktop. 
 </p>
 <br />
 

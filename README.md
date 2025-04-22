@@ -34,10 +34,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <img width="702" alt="image" src="https://github.com/user-attachments/assets/a2c837ec-87b1-45b0-9a14-b9503b95d123" />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Within Microsoft Azure, find a VM with more than 3VCPUS name it osticket-vm, make sure to remember username and password used when creating VM, also create resource group ex.(osTicket) click create and open in Remote Desktop in Windows.
+Within Microsoft Azure, find a create VM name it osticket-vm, make sure to remember username and password used when creating the osTicket VM, under resource group ex.(osTicket). Under image pick Windows 10.Find a usable VM with more than 2VCPUS,make sure to click the Licensing checkbox when using a Windows VM found at the bottom. Click create and deploy. In Remote Desktop enter your IP that you will find next to your newly made VM the public IP address in Windows.
 </p>
 <br />
 

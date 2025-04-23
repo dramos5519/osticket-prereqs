@@ -22,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure/ Creat Virtual Machine
-- Install / Enable IIS in Windows WITH CGI
+- Microsoft Azure/ Create Virtual Machine
+- Install OsTicket zip. / Enable IIS in Windows WITH CGI
 - Install osTicket v1.15.8
 - Assign Permissions
 - Install HeidiSQL.
@@ -43,10 +43,13 @@ Within Microsoft Azure, find a create VM name it osticket-vm, make sure to remem
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="562" alt="image" src="https://github.com/user-attachments/assets/dc541426-06b6-4b42-bf72-78ea68b2cde0" />
+  
+In VM open control panel to enable IIS, go to Programs, (Turn windows features on or off) left side
+Check=Internet information Services, expand it click World Wide Web Services click Application Development Features next click the CGI checkbox click OK, it will apply changes.  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 

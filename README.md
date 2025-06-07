@@ -47,7 +47,7 @@ Within Microsoft Azure, find a create VM name it osticket-vm, make sure to remem
   <img width="565" alt="image" src="https://github.com/user-attachments/assets/62a47e1f-f98a-4d7d-937b-0544a6c68314" />
 
   
-In VM open control panel to enable IIS, go to Programs, (Turn windows features on or off) left side
+In your VM open control panel to enable IIS, go to Programs, (Turn windows features on or off) left side
 Check=Internet information Services, expand it click World Wide Web Services click Application Development Features next click the CGI checkbox click OK, it will apply changes.  
 </p>
 <p>

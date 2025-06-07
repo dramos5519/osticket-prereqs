@@ -140,21 +140,55 @@ Reload IIS (Open IIS, Stop and Start the server)
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/9f30ffdc-b15b-43fb-b191-76f63ef2d123" />
+
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
+
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/58b60bc0-f881-4d78-bf47-40dcbff89532" />
+
 Click “Enable or disable an extension”
+
+<img width="445" alt="image" src="https://github.com/user-attachments/assets/f281ae8b-75e6-4f1d-a3cc-c7cdd02e1014" />
+
 Enable: php_imap.dll
+
 Enable: php_intl.dll
+
 Enable: php_opcache.dll
+
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/2c63b2ea-a819-4173-8764-04e95e1ce104" />
+
+
 Refresh the osTicket site in your browser, observe the changes
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/3ac92cff-2e4a-4d69-a7c5-a6e12d823fa4" />
 
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/85258e3a-baf2-49a9-b30a-fcc71b8677cf" />
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/871c6b87-c65e-48cc-babf-6051ee9c3f11" />
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/b10af469-6cf1-4174-8947-c6e1e9e72b92" />
+
 Assign Permissions: ost-config.php
+
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/dac04d25-ff6c-41c5-b88c-63fa484aa79c" />
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/07842152-5b90-4b07-9fef-5595cd57d81b" />
+
+
 Disable inheritance -> Remove All
+
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/4ee8b63a-a974-40b2-b221-454ad9f28792" />
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/aa9c65e5-bfa5-4752-9281-692902d9f837" />
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/a2666b83-21cc-4e62-b67d-dc43562e80c3" />
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/2fcb52f5-2ea6-400c-b5ea-a0e6e55d4400" />
+
+
+
+
 New Permissions -> Everyone -> All
 
 Continue Setting up osTicket in the browser (click Continue)

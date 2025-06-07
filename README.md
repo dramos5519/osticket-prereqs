@@ -118,9 +118,20 @@ Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
 Reload IIS (Open IIS, Stop and Start the server)
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/feafd462-c726-43ec-8470-09cf087e31b0" />
+
 Install osTicket v1.15.8
+
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/fa36a2fb-6155-40ee-832c-d05fc3669579" />
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/d9b2ddd0-4e4c-4579-bf56-29b0628d0ed9" />
+
+
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/bb6e16b4-4159-49cf-880a-72d885131332" />
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/92443937-4d8b-442c-95f4-564d8e29c3ce" />
+
 
 Reload IIS (Open IIS, Stop and Start the server)
 

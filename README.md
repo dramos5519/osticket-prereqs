@@ -191,15 +191,28 @@ Disable inheritance -> Remove All
 
 New Permissions -> Everyone -> All
 
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/e0d4db3a-c931-4d7d-8773-587b319188e9" />
+
+
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
 
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/8ec99e39-7616-4a7e-b701-8bd3f075a2db" />
+
 From the “osTicket-Installation-Files” folder, install HeidiSQL.
 Open Heidi SQL
+
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/e786afa5-6ff3-42fa-9a42-fd8f540206f8" />
+
 Create a new session, root/root
 Connect to the session
+
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/bf6674cc-1d60-41d0-aec3-8c18ccdd1932" />
+
 Create a database called “osTicket”
+
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/80287803-171a-4080-bf0c-4945d7029c93" />
 
 Continue Setting up osTicket in the browser
 MySQL Database: osTicket
